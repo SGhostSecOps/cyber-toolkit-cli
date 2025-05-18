@@ -11,9 +11,6 @@ Après avoir cloné ce dépôt :
 chmod +x script.sh
 ./script.sh
 ```
-
-Une interface CLI stylée (whiptail/dialog) apparaîtra pour te guider dans l’installation des outils.
-
 ---
 
 ## 🛠️ Outils installés et exemples d'utilisation
