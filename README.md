@@ -31,16 +31,6 @@ Une interface CLI stylée (whiptail/dialog) apparaîtra pour te guider dans l’
 
 ---
 
-## 📁 Structure du dépôt
-
-```
-📂 ton-repo/
-├── script.sh
-└── README.md  ← ce fichier
-```
-
----
-
 ## 📌 Remarques
 
 - Ce script est destiné à des environnements de test/laboratoire.
